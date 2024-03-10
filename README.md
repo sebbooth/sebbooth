@@ -10,7 +10,7 @@ Also, I'm looking for work at the moment, and am open to joining any open source
 
 - 🔭 I’m currently working on [car-wiki](https://github.com/sebbooth/car-wiki) which is a web app for searching and comparing vehicles on a detailed list of specifications. I'm using React for my frontend, Firebase for my backend, and I'm acquiring my data through web scraping with Selenium.
 
-- 🌱 I’m currently learning **Web Dev (React, Firebase), Web Scraping (Selenium), Graphics (OpenGL)**
+- 🌱 I’m currently learning **Web Dev (React, Firebase), Web Scraping (Selenium), Graphics (Vulkan)**
 
 - 👨‍💻 All of my projects are available at [https://sebbooth.github.io/](https://sebbooth.github.io/)
 
