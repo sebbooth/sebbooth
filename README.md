@@ -2,13 +2,11 @@
 
 <h3 align="center">I’m a recent computer science graduate from the University of Victoria in BC, Canada. </h3>
 
-<h5 align="center">I'm always trying to learn something new, and am particularly interested in any fields where I can express creativity through code. I'm most comfortable writing Python, but have been teaching myself C++ and JS for a some time now. 
-
-Also, I'm looking for work at the moment, and am open to joining any open source teams that are looking for help. :)</h5>
+<h5 align="center">I'm always trying to learn something new, and am particularly interested in any fields where I can express creativity through code. I'm most comfortable writing Python or C++, but have been teaching myself JS for some time now. Looking for work at the moment and open to any kind of opportunity.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebbooth&label=Profile%20views&color=0e75b6&style=flat" alt="sebbooth" /> </p>
 
-- 🔭 I’m currently working on [car-wiki](https://github.com/sebbooth/car-wiki) which is a web app for searching and comparing vehicles on a detailed list of specifications. I'm using React for my frontend, Firebase for my backend, and I'm acquiring my data through web scraping with Selenium. I also just started [vkEngine](https://github.com/sebbooth/vkEngine) which will be a voxel engine made with C++ and Vulkan.
+- 🔭 My main project lately has been [vkEngine](https://github.com/sebbooth/vkEngine) which is a voxel rendering engine made with C++ and Vulkan. The renderer implements various optimizations related to voxels such as octrees and ray-marching. I've also been doing work on [car-wiki](https://github.com/sebbooth/car-wiki) which is a web app for searching and comparing vehicles on a detailed list of specifications. I'm using React for my frontend, Firebase for my backend, and I'm acquiring my data through web scraping with Selenium.
 
 - 🌱 I’m currently learning **Web Dev (React, Firebase), Web Scraping (Selenium), Graphics (Vulkan)**
 
